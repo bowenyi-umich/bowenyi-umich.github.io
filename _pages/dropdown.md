@@ -8,6 +8,6 @@ children:
     - title: Photos
       permalink: /Photos/
     - title: divider
-    - title: Hobbies
-      permalink: /Hobbies/
+    - title: Activities
+      permalink: /Activities/
 ---
