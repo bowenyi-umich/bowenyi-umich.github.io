@@ -1,71 +1,64 @@
 ---
 layout: page
 title: Podcast Studies
-description: An extensive analysis of over 28 million podcasts available online, in terms of the trends of popular podcast categories, languages, etc. 
+description: Extensive analysis of over 28 million podcasts. 
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: To update
 ---
 
-In my current research project,  
+Late August, Ben (my PhD project leader) collected a giant raw dataset of millions of podcasts, with publish dates spanning from early 1990s to now. We are curious about how podcasts change over decades, in terms of their popular categories, used languages, explicit status, and even the time span of each podcast. 
 
+I started by analyzing the time span of individual podcasts. However, since the "publish date" column had at least 3 different time formats, I cleaned the dataset first and fixed the format. Here's the trick I employed:
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
 ```
-{% endraw %}
+# -------- Clean date format: ----------
+
+# Date formats:
+date_formats_with_offset = "%a, %d %b %Y %H:%M:%S %z"
+date_formats_without_offset = "%a, %d %b %Y %H:%M:%S %Z"
+date_format_without_tzone = '%Y-%m-%d %H:%M:%S'
+
+# clean date using only one format, leaving NaTs for unmatched format 
+df['date_formats_with_offset'] = pd.to_datetime(df['pubDate'], errors='coerce', format=date_formats_with_offset, utc=True).dt.tz_localize(None)
+df["date_formats_without_offset"] = pd.to_datetime(df['pubDate'], errors='coerce', format=date_formats_without_offset, utc=True).dt.tz_localize(None)
+df["date_formats_without_PDT"] = pd.to_datetime(df['pubDate'].replace({'PDT':'-07:00','PST':'-08:00'}, regex=True), errors='coerce', utc=True).dt.tz_localize(None)
+
+
+# Merge 3 columns  
+df["date_format_same"] = df['date_formats_with_offset'].fillna(df["date_formats_without_offset"])
+df['date_format_same_final'] = df["date_formats_without_PDT"].fillna(df["date_format_same"])
+
+# -------- date format cleaned ----------
+
+```
+
+To make our analysis simpler, I got rid of all the timezone info in our dataset. To avoid NaT values after converting one date format, I merged three columns by .fillna(). This way, NaT will most likely get replaced by our target date format.     
+
+After cleaning the dataset, I made a .csv file that contains podcasts sorted by their time span. I also made some really exciting plots about podcast trends over decades. More details will be updated. 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/1990_2023_lang_series_plot.png" title="Popular Language Analysis" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The trend of podcast languages from 1990 - 2023.
+</div>
+
+<!-- You can also put regular text between your rows of images.
+Say you wanted to write a little bit about your project before you posted the rest of the images.
+You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images. -->
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/1990_2023_series_plot.png" title="Popular Categories since 1990" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Popular Podcast Categories from 1990 - 2023.
+</div>
+
+
+
+

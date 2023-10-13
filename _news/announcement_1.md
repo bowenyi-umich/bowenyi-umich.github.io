@@ -6,6 +6,6 @@ inline: false
 related_posts: false
 ---
 
-Joined the Blablablab and began an academic odyssey! Will work with Ben Litterier (PhD candidate) on his podcast project, along with a fellow undergraduate student Irena Li. 
+Joined the Blablablab and began an academic odyssey! Will work with Ben Litterier (PhD candidate) on his podcast project, along with a fellow CS major Irena Li. 
 
 Was the first school day with an unprecedented campus-wide black out. However, that day will stay the brighest in my memory! 
