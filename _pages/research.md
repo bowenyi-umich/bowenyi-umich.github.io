@@ -5,7 +5,7 @@ permalink: /Research/
 description: 
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: 
 horizontal: false
 ---
 My research combines  data analysis and network science together to understand social patterns and human behavior in its social context. You can find many of my cool research projects below:
