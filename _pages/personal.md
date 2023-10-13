@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Other
+title: Personal
 nav: true
 nav_order: 7
 dropdown: true
@@ -8,6 +8,6 @@ children:
     - title: Photos
       permalink: /Photos/
     - title: divider
-    - title: Activities
-      permalink: /Activities/
+    - title: Hobbies
+      permalink: /Hobbies/
 ---

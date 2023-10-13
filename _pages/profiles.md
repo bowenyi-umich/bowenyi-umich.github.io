@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: profiles
 permalink: /people/
 title: People
@@ -23,4 +23,4 @@ profiles:
   #   more_info: >
   #     <p>1929 Plymouth Rd</p>
   #     <p>Ann Arbor, MI 48105</p>
----
+--- -->

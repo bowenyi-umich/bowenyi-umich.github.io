@@ -1,11 +1,7 @@
 ---
-layout: cv
-permalink: /cv/
+layout: page
 title: CV
 nav: true
-nav_order: 4
-cv_pdf: Bowen_Yi_resume.pdf
-description: To update.
-toc:
-  sidebar: left
+dropdown: false
+permalink: /assets/pdf/Bowen_Yi_resume.pdf
 ---

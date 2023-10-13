@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: Research
+permalink: /Research/
+description: 
 nav: true
 nav_order: 2
 display_categories: [work, fun]
 horizontal: false
 ---
-
+My research combines  data analysis and network science together to understand social patterns and human behavior in its social context. You can find many of my cool research projects below:
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
