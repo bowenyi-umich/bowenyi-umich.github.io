@@ -142,7 +142,7 @@ related_blog_posts:
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
 # the information below.
 giscus:
-  repo:                          # <your-github-user-name>/<your-github-repo-name>
+  repo: bowenyi-umich/bowenyi-umich.github.io                        # <your-github-user-name>/<your-github-repo-name>
   category: Comments             # name of the category under which discussions will be created
   mapping: title                 # identify discussions by post title
   strict: 1                      # use strict identification mode
@@ -159,9 +159,7 @@ disqus_shortname: al-folio # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+
 
 # -----------------------------------------------------------------------------
 # Collections
