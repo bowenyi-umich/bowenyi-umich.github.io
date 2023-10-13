@@ -2,7 +2,7 @@
 layout: page
 title: Podcast Studies
 description: Extensive analysis of over 28 million podcasts. 
-img: assets/img/2010_2023_series_plot.jpg
+img: assets/img/2010_2023_series_plot.png
 importance: 1
 category: 
 related_publications: To update
