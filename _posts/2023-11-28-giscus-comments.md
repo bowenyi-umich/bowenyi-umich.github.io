@@ -22,8 +22,16 @@ The second day, I was able to explore the community where the family reside. It 
         {% include figure.html path="assets/img/IMG_0400.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
+<div class="caption">
+    Mrs. Deer :) 
+</div>
 
-Third day, Thanksgiving. In the afternoon, we visited Downtown Grand Rapids. Compared to Downtown San Diego, which I visited several times, DT Grand Rapids is much more organized. I didn't see many homeless people around (partly because it is too cold to stay outside). Streets were abandoned on the holiday and we were walking along the river at downtown center. I saw a few fishermen stepping into the freezing river trying to hook fish. It's not a salmon season and they didn't seem to have a fish harvest. Later, I visited Mr. yang's office, a few museums, and President Ford's burial site (sadly, they were closed and we only took few photos of them). 
+Third day, Thanksgiving. In the afternoon, we visited Downtown Grand Rapids. Compared to Downtown San Diego, which I visited several times, DT Grand Rapids is much more organized. I didn't see many homeless people around (partly because it is too cold to stay outside). Streets were abandoned on the holiday and we were walking along the river at downtown center. I saw a few fishermen stepping into the freezing river trying to hook fish. It's not a salmon season and they didn't seem to have a fish harvest. Later, I visited Mr. yang's office, a few museums, and President Ford's burial site (sadly, they were closed and we only took few photos of them).
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/IMG_0424.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 At around 5:00, we went back home after the refreshing tour and prepared a grand Thanksgiving dinner. The dinner featured classic pork fried with chili (hunan cuisine), salmon, mussels, chicken, lobster, etc. Also, we welcomed a new guest, uncle Liu, who graduated from Peking University and was such a rarely knowledgeable person. 
 
