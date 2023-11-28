@@ -267,7 +267,7 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['ML', 'NLP', 'Social Sciences', 'Misc'] # these tags will be displayed on the front page of your blog
+display_tags: ['ML/NLP', 'Social Sciences', 'Others'] # these tags will be displayed on the front page of your blog
 display_categories: ['Academic', "Others", "In Search of Lost Memories"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
