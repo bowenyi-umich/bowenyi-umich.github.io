@@ -33,6 +33,12 @@ Third day, Thanksgiving. In the afternoon, we visited Downtown Grand Rapids. Com
     </div>
 </div>
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/IMG_0425.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
 At around 5:00, we went back home after the refreshing tour and prepared a grand Thanksgiving dinner. The dinner featured classic pork fried with chili (hunan cuisine), salmon, mussels, chicken, lobster, etc. Also, we welcomed a new guest, uncle Liu, who graduated from Peking University and was such a rarely knowledgeable person. 
 
 Fourth day, BLACK FRIDAY! Although I had nothing specific to buy, I went to the nearby Outlets with the Yang family just to feel the atmosphere. Mr. Yang intended to buy few items for his family in China so we left home early (at 8:00) but already had some trouble finding parking. Later, we visited stores like Coach, Polo, Calvin Klein, and Under Armor, most of which offered 50% discount. When we left Outlets at 1:00 PM, we saw an one-mile car line in front of the Outlets. Fingers crossed for these people to enter the Outlets before it closed. 
