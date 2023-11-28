@@ -19,7 +19,7 @@ The second day, I was able to explore the community where the family reside. It 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/IMG_0400.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/IMG_0400.jpg" class="img-fluid rounded z-depth-1" zoomable=true height="400px" width="600px" %}
     </div>
 </div>
 <div class="caption">
