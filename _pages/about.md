@@ -16,7 +16,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-It's me, Bowen Yi! As a Computer Science student at the University of Michigan, I research Natural Language Processing and Computational Social Sciences with [David Jurgens "the Great"](https://jurgens.people.si.umich.edu/), [Dallas Card](https://dallascard.github.io/), and [Benjamin Litterer](https://twitter.com/BenLitterer). My research combines data analysis and network science together to understand social patterns and human behavior in its social context. More recently, I am also interested in integrating Natural Language Processing and Computer Vision. You can find our amazing research work at the [Blablablab](https://blablablab.si.umich.edu/) website!  
+It's me, Bowen Yi! As a Computer Science student at the University of Michigan, I research Natural Language Processing and Computational Social Sciences with [David Jurgens "the Great"](https://jurgens.people.si.umich.edu/), [Dallas Card](https://dallascard.github.io/), and [Benjamin Litterer](https://twitter.com/BenLitterer). My research combines data analysis and network science together to understand social patterns and human behavior in its social context.  You can find our amazing research work at the [Blablablab](https://blablablab.si.umich.edu/) website!  
  
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
