@@ -6,6 +6,7 @@ inline: false
 related_posts: false
 ---
 
-This afternoon, I gave a 30-minute talk about my research on topic modeling and Mallet. As the first undergraduate student in my lab giving a talk, my presentation was well-accepted and welcomed among Professor Jurgens and graduate students. Here's a link to my presentation slides: https://umich-my.sharepoint.com/:p:/g/personal/bowenyi_umich_edu/EePerdTGl0ZEuxzaALlRVOUBEvTLc3DVMlkpriPZFm4LSg?e=bzm6Sa 
+This afternoon, I gave a 30-minute talk about my research on topic modeling and Mallet. As the first undergraduate student in my lab giving a talk, my presentation was well-accepted and welcomed among Professor Jurgens and graduate students. Feel free to check out my [https://umich-my.sharepoint.com/:p:/g/personal/bowenyi_umich_edu/EePerdTGl0ZEuxzaALlRVOUBEvTLc3DVMlkpriPZFm4LSg?e=bzm6Sa](presentation slides!) 
 
-P.S. An achievement to brag about: I am the first undergraduate in my lab to share research stems (plots) and deliver a 30-minute talk. By being more proactive, I believe I can get most out of my research experience and thus have a better shot at top graduate programs. 
+Next semester, I am planning to take a class with Professor Rada Mihalcea and join her lab if possible. I have been admiring Rada for a long time because she is one of the most reputed NLP researchers not just at UMich but in the whole world. I will work jointedly with David and Rada if possible, which will give my graduate school application a boost. 
+

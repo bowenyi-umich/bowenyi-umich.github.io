@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wonderful Thanksgiving!
+title: A Wonderful Thanksgiving!
 date: 2023-11-28 00:30:00-0400
 description: The most wonderful and meaningful Thanksgiving I have ever had
 tag: Personal
@@ -97,6 +97,16 @@ Third day, Thanksgiving. In the afternoon, we visited Downtown Grand Rapids. Com
 At around 5:00, we went back home after the refreshing tour and prepared a grand Thanksgiving dinner. The dinner featured classic pork fried with chili (hunan cuisine), salmon, mussels, chicken, lobster, etc. Also, we welcomed a new guest, uncle Liu, who graduated from Peking University and was such a rarely knowledgeable person. 
 
 Fourth day, BLACK FRIDAY! Although I had nothing specific to buy, I went to the nearby Outlets with the Yang family just to feel the atmosphere. Mr. Yang intended to buy few items for his family in China so we left home early (at 8:00) but already had some trouble finding parking. Later, we visited stores like Coach, Polo, Calvin Klein, and Under Armor, most of which offered 50% discount. When we left Outlets at 1:00 PM, we saw an one-mile car line in front of the Outlets. Fingers crossed for these people to enter the Outlets before it closed. 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <video controls width="400" height="400">
+            <source src="assets/img/IMG_0528.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
+</div>
+
+
 
 Fifth day, also the second last day I spent with the Yang family. Mr. Yang took me and Frank (my housemate) to a BBQ place, which was the first time I tried BBQ. It was an amazing experience and the smoked ribs tasted like La Rou (腊肉, a famous Hunan cuisine which I hadn't tried over two years). That night, I was surprised by how time flied with a tint of regretfulness.
 <div class="row mt-3">
