@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Joined the Blablablab!
+title: Joined the Blablablab! 
 date: 2023-8-27 16:00:00-EST
 inline: false
 related_posts: false
