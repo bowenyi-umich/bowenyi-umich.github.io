@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gave a talk at the Blablablab!
-date: 2023-8-27 16:00:00-EST
+date: 2023-Nov-27 16:00:00-EST
 inline: false
 related_posts: false
 ---
