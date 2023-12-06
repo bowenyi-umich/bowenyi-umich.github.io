@@ -8,7 +8,7 @@ nav_order: 2
 display_categories: 
 horizontal: false
 ---
-My research combines data science, Natural Language Processing (NLP), and network science together to understand social patterns and human behavior in its social context. You can find many of my cool research projects below (disclaimer: it might not be up-to-date):
+My research combines data science, Natural Language Processing (NLP), and network science together to understand social patterns and human behavior in its social context. Also, I am looking for research opprtunities of NLP in healthcare. You can find many of my cool research projects below (disclaimer: it might not be up-to-date):
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}

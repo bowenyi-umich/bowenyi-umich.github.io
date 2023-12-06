@@ -1,16 +1,18 @@
 ---
 layout: page
-title: Podcast Studies
+title: Podcast Studies (Over 3 decades)
 description: Extensive analysis of over 28 million podcasts. 
 img: assets/img/2010_2023_series_plot.png
 importance: 1
 category: 
 related_publications: To update
 ---
+Timeline: August 2024 - November 2024
 
-Late August, Ben (my PhD project leader) collected a giant raw dataset of millions of podcasts, with publish dates spanning from early 1990s to now. We are curious about how podcasts change over decades, in terms of their popular categories, used languages, explicit status, and even the time span of each podcast. 
+Background: From August 2024, my PhD mentor, Ben, undertook the monumental task of gathering a comprehensive raw dataset, which includes millions of podcasts. These podcasts, ranging from the early 1990s to the present day, offer a rich tapestry of information. We are intrigued by the evolution of podcasts over the decades, especially in terms of their popular categories, languages used, explicit status, and the duration of each podcast.
 
-I started by analyzing the time span of individual podcasts. However, since the "publish date" column had at least 3 different time formats, I cleaned the dataset first and fixed the format. Here's the trick I employed:
+Main Content: After importing the .csv file into a data frame (referred to as “df”), we focused on the columns ‘categories’, ‘language’, ‘explicit_x’, and ‘pubDate’. Given our interest in the temporal changes in podcasts, my initial task was to clean the “pubDate” column, which contained at least three different time zone formats. To resolve this, I devised a pipeline to eliminate all the timezone information from the “pubDate” column. The details of this pipeline will follow.
+
 
 ```
 # -------- Clean date format: ----------
@@ -34,9 +36,32 @@ df['date_format_same_final'] = df["date_formats_without_PDT"].fillna(df["date_fo
 
 ```
 
-To make our analysis simpler, I got rid of all the timezone info in our dataset. To avoid NaT values after converting one date format, I merged three columns by .fillna(). This way, NaT will most likely get replaced by our target date format.     
+To prevent NaT values after converting one date format into our target date format, I merged three columns using .fillna(). This approach ensures that NaT will most likely be replaced by our target date format. 'date_format_same_final' is the column with finalized time format.      
 
-After cleaning the dataset, I made a .csv file that contains podcasts sorted by their time span. I also made some really exciting plots about podcast trends over decades. More details will be updated. 
+After standardizing the time format, I developed another pipeline to filter out podcasts from our dataset that were not published consistently. The inconsistency in podcast publication is likely attributable to erroneous publish dates considering that I set a relatively low threshold for inconsistency: if the difference between the median and minimum publish dates, or the difference between the maximum and median publish dates, exceeds 7000 days, the podcast is deemed inconsistent (I carefully chose 7000 days after many experiments). This approach helps ensure that our analysis is based on reliable and consistent data.
+
+```
+# The DataFrame is grouped by ‘podcast title’, ‘category’, ‘language’, and ‘explicit’ columns. For each group, the minimum, maximum, and median ‘publish date’ are calculated.
+grouped = df.groupby(['podcast title', 'category', 'language', 'explicit'])['publish date'].agg(['min', 'max', 'median'])
+
+# Time Span Calculation of each podcast:
+grouped['time span'] = grouped['max'] - grouped['min']
+
+# Set up criteria for podcast consistency and filter out those that are inconsistent:
+grouped['median - min'] = abs(grouped['median'] - grouped['min'])
+grouped['max - median'] = abs(grouped['max'] - grouped['median'])
+consistent_podcasts = grouped[(grouped['median - min'] < pd.Timedelta('7000D')) & 
+                             (grouped['max - median'] < pd.Timedelta('7000D'))]
+                             
+# Sorting and Resetting Index: The consistent podcasts are sorted in descending order based on their time span. The index of the DataFrame is then reset:                              
+consistent_sorted_podcasts = consistent_podcasts.sort_values('time span', ascending=False)
+consistent_sorted_podcasts = consistent_sorted_podcasts.reset_index()
+
+```
+This was the end of my data cleansing stage (it worked although might not be exhaustive). After that, I was able to do multiple exciting analysis. 
+
+More details and plots are to update:       
+     
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/1990_2023_lang_series_plot.png" title="Popular Language Analysis" class="img-fluid rounded z-depth-1" %}
