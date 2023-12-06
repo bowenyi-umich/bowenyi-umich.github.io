@@ -8,11 +8,13 @@ category: "In Search of Memories"
 giscus_comments: false
 related_posts: false
 ---
-July 9, 2023 was my 20th birthday, also one of the happiest and fulfilling birthdays I have ever had. I spent the whole day with my best friend, Mickey, who carefully made a giant birthday cake for me. Words are too plain to express my graititude to my dearest friend, who always wears the warmest and reassuring smile, brings kindness and optimism to people around him, and makes me never feel alone even if I am far away from home.   
 
-The loveliest part is, since I mentioned my movie hero is Forrest Gump before, my friend specially put a Forrest Gump "statue" at the top of the birthday cake. This cake carried the best wishes and the greatest friendship between Mickey and me. It will also stay in my heart and reminds me to keep running and fighting, just like Forrest Gump. 
 
-Long live my dream. Long live my friendship with Mickey "the best"!
+On July 9, 2023, I celebrated my 20th birthday, which stands out as one of the most joyous and fulfilling birthdays I’ve ever had. I had the pleasure of spending the entire day with my best friend, Mickey, who meticulously crafted a magnificent birthday cake for me. Words fall short in expressing my gratitude towards my cherished friend, who constantly radiates a comforting smile, spreads kindness and optimism, and ensures that I never feel alone, even when I’m miles away from home.
+
+The highlight of the day was the Forrest Gump “statue” that Mickey placed atop the birthday cake, a thoughtful gesture acknowledging my admiration for the movie character. This cake, symbolizing our profound friendship and carrying the best wishes, will forever hold a special place in my heart. It serves as a constant reminder to persevere and keep moving forward, just like Forrest Gump.
+
+Here’s to the longevity of my dreams and my enduring friendship with Mickey, the best there is!
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">

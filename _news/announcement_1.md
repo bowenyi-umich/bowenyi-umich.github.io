@@ -6,6 +6,7 @@ inline: false
 related_posts: false
 ---
 
-Joined the Blablablab and began an academic odyssey! Will work with Ben Litterier (PhD candidate) on his podcast project, along with a fellow CS major Irena Li. 
+I embarked on an academic journey with the Blablablab, under the guidance of Professor Jurgens. I am thrilled to collaborate with Ben Litterier, a PhD candidate, and Irena Li, a fellow Computer Science major, on a podcast project.
 
-Was the first school day with an unprecedented campus-wide black out. However, that day will stay the brighest in my memory! 
+Interestingly, my first day at school was marked by an unprecedented campus-wide blackout. Despite the darkness, that day remains the brightest in my memory!
+
