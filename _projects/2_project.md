@@ -15,4 +15,4 @@ Highlights: Topic Modeling, Natural Language Processing
 Background: 
 
 Main content:
-More details are to update. (The presentation slides here) [https://umich-my.sharepoint.com/:p:/g/personal/bowenyi_umich_edu/EePerdTGl0ZEuxzaALlRVOUBEvTLc3DVMlkpriPZFm4LSg?e=bzm6Sa] offered a glimpse into the research I have been conducting. However, I have made significantly more progress beyond what was showcased in the slides. I look forward to sharing these advancements in due course.
+More details are to update. [The presentation slides here] (https://umich-my.sharepoint.com/:p:/g/personal/bowenyi_umich_edu/EePerdTGl0ZEuxzaALlRVOUBEvTLc3DVMlkpriPZFm4LSg?e=bzm6Sa) offered a glimpse into the research I have been conducting. However, I have made significantly more progress beyond what was showcased in the slides. I look forward to sharing these advancements in due course.
