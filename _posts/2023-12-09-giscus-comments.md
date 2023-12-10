@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Neural Networks
-date: 2023-12-09 18:30:00-0400
+date: 2023-12-09 21:30:00-0400
 description: A short explanation of neural networks 
 tag: ML/NLP
 category: 
@@ -12,22 +12,22 @@ Neural networks are a widely used algorithm in supervised learning, which involv
 
 As the name suggests, a neural network consists of multiple neurons. Each neuron performs two tasks:
 
-    It computes the linear combination of inputs from the previous layer using weights.
-    It transforms this linear combination using an activation function.
+1. It computes the linear combination of inputs from the previous layer using weights.
+2. It transforms this linear combination using an activation function.
 
 Training a neural network involves two steps: forward propagation and backward propagation. Here’s a simplified explanation of both procedures and how they contribute to training a neural network:
 
-    Initialize Weights and Biases: The weights and biases of the neural network are initially set to random values.
+1. Initialize Weights and Biases: The weights and biases of the neural network are initially set to random values.
 
-    Forward Propagation: The input data is passed through the network, resulting in an initial prediction.
+2. Forward Propagation: The input data is passed through the network, resulting in an initial prediction.
 
-    Calculate Loss: The difference between the network’s prediction and the actual output is calculated. This difference is often referred to as the loss or error. The goal is to minimize this error so that our prediction closely matches the expected label. To achieve this, we adjust the learnable parameters (weights and biases) in the next step: backward propagation. After each adjustment, our predicted label should get closer to the expected label. Remember, we are dealing with labeled data in supervised learning!
+3. Calculate Loss: The difference between the network’s prediction and the actual output is calculated. This difference is often referred to as the loss or error. The goal is to minimize this error so that our prediction closely matches the expected label. To achieve this, we adjust the learnable parameters (weights and biases) in the next step: backward propagation. After each adjustment, our predicted label should get closer to the expected label. Remember, we are dealing with labeled data in supervised learning!
 
-    Backward Propagation (Backpropagation): The error is then propagated back through the network. This involves calculating the gradient of the error with respect to the weights and biases. The gradient points in the direction of the steepest increase in the error.
+4. Backward Propagation (Backpropagation): The error is then propagated back through the network. This involves calculating the gradient of the error with respect to the weights and biases. The gradient points in the direction of the steepest increase in the error.
 
-    Update Weights and Biases: The weights and biases are then updated in the opposite direction of the gradient. This is achieved by subtracting the gradient of the weights and biases (multiplied by a learning rate) from the current weights and biases. This process is known as gradient descent.
+5. Update Weights and Biases: The weights and biases are then updated in the opposite direction of the gradient. This is achieved by subtracting the gradient of the weights and biases (multiplied by a learning rate) from the current weights and biases. This process is known as gradient descent.
 
-    Iterate: Steps 2-5 are repeated for a number of iterations or until the network’s predictions are satisfactory.
+6. Iterate: Steps 2-5 are repeated for a number of iterations or until the network’s predictions are satisfactory.
 
 The learning rate is a hyperparameter that determines the extent of adjustment to the weights and biases with each update. A smaller learning rate might slow down the learning process but increase its precision, while a larger learning rate might speed it up but decrease its accuracy.
 
