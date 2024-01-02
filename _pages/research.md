@@ -8,7 +8,7 @@ nav_order: 2
 display_categories: 
 horizontal: false
 ---
-My research combines Natural Language Processing (NLP), Affective Computing, and Speech Analysis together to understand social patterns and human behavior. You can find many of my cool research projects below (disclaimer: it might not be up-to-date):
+My research combines Natural Language Processing (NLP), Affective Computing, Speech Analysis, and Computational Social Science together to understand social patterns and human behavior. You can find many of my cool research projects below (disclaimer: it might not be up-to-date):
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
