@@ -16,10 +16,11 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-It's me, Bowen Yi! As a Computer Science student at the University of Michigan, I am very grateful to research Natural Language Processing (NLP) and Computational Social Sciences with [David Jurgens "the Great"](https://jurgens.people.si.umich.edu/) and [Benjamin Litterer (as his very first mentee!)](https://twitter.com/BenLitterer). My research integrates NLP, Computational Social Science, and Affective Computing to understand human behavior. You can find our amazing research work at [Blablablab](https://blablablab.si.umich.edu/)! 
+It's me, Bowen Yi! As a Computer Science student at the University of Michigan, I am very fortunate to research Natural Language Processing (NLP) and Computational Social Science (CSS) with [David Jurgens "the Great"](https://jurgens.people.si.umich.edu/) and [Benjamin Litterer (as his very first mentee!)](https://twitter.com/BenLitterer). My research integrates NLP, CSS, and Affective Computing to understand human behavior. You can find our amazing research work at [Blablablab](https://blablablab.si.umich.edu/)!  
 
-Before my journey at Michigan, I grew up in [Yueyang, Hunan](https://en.wikipedia.org/wiki/Yueyang). It is a beautiful city nestled by [Dongting Lake](https://en.wikipedia.org/wiki/Dongting_Lake) and famous for Fan Zhongyan's [Memorial to Yueyang Tower](https://zh.wikisource.org/zh-hans/%E5%B2%B3%E9%99%BD%E6%A8%93%E8%A8%98).    
- 
+Before my journey at Michigan, I grew up in [Yueyang, Hunan](https://en.wikipedia.org/wiki/Yueyang). It is a beautiful city nestled by [Dongting Lake](https://en.wikipedia.org/wiki/Dongting_Lake) and famous for Fan Zhongyan's [Memorial to Yueyang Tower](https://zh.wikisource.org/zh-hans/%E5%B2%B3%E9%99%BD%E6%A8%93%E8%A8%98). I am one of the rare Hunaneses who can't sustain hot spice.    
+
+I am looking forward to PhD application in my seninor year. Please feel free to contact me for any questions or thoughts!    
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
