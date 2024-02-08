@@ -20,4 +20,6 @@ Introduction: Our dataset consists of one million podcasts transcripts divided i
 Main content:
 We have collected most of the transcripts we need. My task is to train a MiniLM on the labeled transcripts two weeks before and after Floyd was murdered, and use the data in-between the timeline to calibrate the model. After training and fine-tuning, our model will be able to predict where an input sentence is about news or not. Currently, I am looking at podcasts that are classified as news and not-news and try to formalize our definiton of news in the podcasts. This definition is subject to change as we progress on the project. 
 
+Please check out my research presentation slides at Blablablab [here](https://umich-my.sharepoint.com/:p:/r/personal/bowenyi_umich_edu/Documents/Blablablab%20Presentation,%202024.pptx?d=wbaf75df103184ed792cfee45e72f9801&csf=1&web=1&e=K3h0fh)
+
 Last update: Jan 28, 2024
