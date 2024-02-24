@@ -20,7 +20,7 @@ It's me, Bowen! As a junior in Computer Science at the University of Michigan, I
 
 Before my journey at Michigan, I grew up in [Yueyang, Hunan](https://en.wikipedia.org/wiki/Yueyang). It is a beautiful city nestled by [Dongting Lake](https://en.wikipedia.org/wiki/Dongting_Lake) and famous for Fan Zhongyan's [Memorial to Yueyang Tower](https://zh.wikisource.org/zh-hans/%E5%B2%B3%E9%99%BD%E6%A8%93%E8%A8%98). I am one of the rare Hunaneses who can't sustain hot spice.    
 
-I am looking forward to PhD application this year. Please reach out to me with any questions!    
+I am looking forward to PhD application end of this year. Please reach out to me with any questions via email!    
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
