@@ -8,7 +8,7 @@ nav_order: 2
 display_categories: 
 horizontal: false
 ---
-My research combines Natural Language Processing (NLP) and Computational Social Science together to understand social patterns and human behavior. You can find many of my cool research projects below (Last update: Jan 2, 2024):
+My research combines Natural Language Processing (NLP) and Computational Social Science together to understand social patterns and human behavior. You can find many of my cool research projects below. The last update was on Jan 2, 2024. Please feel free to email me for questions on most up-to-date research:
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
