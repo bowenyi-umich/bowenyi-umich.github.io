@@ -15,14 +15,14 @@ Details: to update
 
 For example, some very interesting analysis we did include the shift of popular podcast categories in each US presidency, etc.        
      
-<div class="row">
+<!-- <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/1990_2023_lang_series_plot.png" title="Popular Language Analysis" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     The trend of podcast languages from 1990 - 2023.
-</div>
+</div> -->
 
 <!-- You can also put regular text between your rows of images.
 Say you wanted to write a little bit about your project before you posted the rest of the images.

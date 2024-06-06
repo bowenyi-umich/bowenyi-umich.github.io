@@ -29,7 +29,7 @@ I'm enthusiastic about music as well, and never get tired of exploring new songs
   5. San Francisco by Scott McKenzie (1967); Running on Empty by Jackson Browne (1977); Anne's Theme by Hargood Hardy (1988)
   
 Since childhood, I have been eager to explore the culture and landscapes of other countries. Due to financial and time constraints, I have developed a hobby of "tele-traveling": using immersive online resources (and my imagination) to travel without physically being there. The five places I love and really want to visit are: 
-  1. The Finger Lakes Region, Upstate NY, USA (Ithaca, Skaneateles, Watkins Glenn, Hammondsport, Penn Yan, Canandaigua)
+  1. The Finger Lakes Region, Upstate NY, USA (Ithaca, Skaneateles, Watkins Glen, Hammondsport, Penn Yan, Canandaigua)
   2. Coastal Maine, USA (York Harbor, Cape Elizabeth, Mount Desert Island, Yarmouth, Lubec)
   3. Alaska, USA (Sitka, Seward, Homer)
   4. Atlantic Canada (Prince Edward Island, Newfoundland and Labrador)
