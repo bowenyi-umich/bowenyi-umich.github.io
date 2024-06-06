@@ -33,6 +33,6 @@ Since childhood, I have been eager to explore the culture and landscapes of othe
   2. Coastal Maine, USA (York Harbor, Cape Elizabeth, Mount Desert Island, Yarmouth, Lubec)
   3. Alaska, USA (Sitka, Seward, Homer)
   4. Atlantic Canada (Prince Edward Island, Newfoundland and Labrador)
-  5. Dunedin, New Zealand; Canberra, Australia
+  5. Dunedin, New Zealand; Canberra, Australia; Singapore
   
 You might get baffled by my lists of favorites, but understanding the stories behind helps make sense of them. I welcome discussions about my interests while chatting in person :)             
