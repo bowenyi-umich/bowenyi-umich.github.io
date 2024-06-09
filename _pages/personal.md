@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Personal
-description: I update some exciting events in my life here :) 
+description: It's personal, but please don't take it personally :D 
 nav: true
 nav_order: 7
 ---
