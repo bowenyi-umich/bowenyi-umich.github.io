@@ -28,7 +28,7 @@ I'm enthusiastic about music as well, and never get tired of exploring new songs
   4. Truly Madly Deeply by Savage Garden (1997)
   5. San Francisco by Scott McKenzie (1967); Running on Empty by Jackson Browne (1977); Anne's Theme by Hargood Hardy (1988)
   
-Since childhood, I have been eager to explore the culture and landscapes of other countries. Due to financial and time constraints, I have developed a hobby of "tele-traveling": using immersive online resources (and my imagination) to travel without physically being there. Some places I love and really want to visit are (not in particular order): 
+Since childhood, I have been eager to explore the culture and landscapes of other countries. Due to financial and time constraints, I have developed a hobby of "tele-traveling": using immersive online resources (and my imagination) to travel without physically being there. Some places I love and really want to visit are (no particular order): 
   1. Upstate New York (USA): Ithaca, Skaneateles, Watkins Glen, Canandaigua
   2. Singapore
   3. Maine (USA): Mount Desert Island, York Harbor, Lubec
