@@ -28,11 +28,16 @@ I'm enthusiastic about music as well, and never get tired of exploring new songs
   4. Truly Madly Deeply by Savage Garden (1997)
   5. San Francisco by Scott McKenzie (1967); Running on Empty by Jackson Browne (1977); Anne's Theme by Hargood Hardy (1988)
   
-Since childhood, I have been eager to explore the culture and landscapes of other countries. Due to financial and time constraints, I have developed a hobby of "tele-traveling": using immersive online resources (and my imagination) to travel without physically being there. The five places I love and really want to visit are: 
-  1. The Finger Lakes Region, Upstate NY, USA (Ithaca, Skaneateles, Watkins Glen, Hammondsport, Penn Yan, Canandaigua)
-  2. Coastal Maine, USA (York Harbor, Cape Elizabeth, Mount Desert Island, Yarmouth, Lubec)
-  3. Alaska, USA (Sitka, Seward, Homer)
-  4. Atlantic Canada (Prince Edward Island, Newfoundland and Labrador)
-  5. Dunedin, New Zealand; Canberra, Australia; Singapore
+Since childhood, I have been eager to explore the culture and landscapes of other countries. Due to financial and time constraints, I have developed a hobby of "tele-traveling": using immersive online resources (and my imagination) to travel without physically being there. Some places I love and really want to visit are (not in particular order): 
+  1. Upstate New York (USA): Ithaca, Skaneateles, Watkins Glen, Canandaigua
+  2. Singapore
+  3. Maine (USA): Mount Desert Island, York Harbor, Lubec
+  4. Alaska (USA): Sitka, Seward, Homer
+  5. Prince Edward Island, Canada
+  6. Dunedin, New Zealand 
+  7. Canberra, Australia
+  8. Europe: Serbia, Romania, Greece, Finland, Norway
+  9. China: Hong Kong, Suzhou (JS), Yueyang (HN), Fenghuang (HN)
+  10. India: Bihar, Bangaluru
   
 You might get baffled by my lists of favorites, but understanding the stories behind helps make sense of them. I welcome discussions about my interests while chatting in person :)             
