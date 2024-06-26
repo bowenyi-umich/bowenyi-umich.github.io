@@ -16,9 +16,11 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-It's me, Bowen! A junior in Computer Science at the University of Michigan, I am very fortunate to research Natural Language Processing and Computational Social Science with [David Jurgens](https://jurgens.people.si.umich.edu/), [Maggie Makar](https://mymakar.github.io/), [Rada Mihalcea](https://en.wikipedia.org/wiki/Rada_Mihalcea), and [Veronica Perez-Rosas](https://scholar.google.com/citations?user=yatiIigAAAAJ&hl=en). I am also grateful to the mentorship of [Siyang Liu](https://scholar.google.com/citations?user=2OjUAPUAAAAJ&hl=en) and [Benjamin Litterer](https://scholar.google.com/citations?user=kXhY6pkAAAAJ&hl=en&oi=ao) (all names are ordered alphabetically). You can find more of our amazing research work at [LIT](https://lit.eecs.umich.edu/) and [Blablablab](https://blablablab.si.umich.edu/)! 
+It's me, Bowen! I am a junior in Computer Science at the University of Michigan, working on Machine Learning + Natural Language Processing. I am privileged to be part of the [LIT research group](https://lit.eecs.umich.edu/) and [Blablablab](https://blablablab.si.umich.edu/), being supervised by [Rada Mihalcea](https://en.wikipedia.org/wiki/Rada_Mihalcea), [David Jurgens](https://jurgens.people.si.umich.edu/), [Veronica Perez-Rosas](https://scholar.google.com/citations?user=yatiIigAAAAJ&hl=en), and [Maggie Makar](https://mymakar.github.io/).
 
-Before my journey at Michigan, I grew up in [Yueyang, Hunan](https://en.wikipedia.org/wiki/Yueyang). It is a beautiful city nestled by [Dongting Lake](https://en.wikipedia.org/wiki/Dongting_Lake) and famous for Fan Zhongyan's [Memorial to Yueyang Tower](https://zh.wikisource.org/zh-hans/%E5%B2%B3%E9%99%BD%E6%A8%93%E8%A8%98). I am one of the rare Hunaneses who can't sustain hot spice.     
+I am interested in developing culture-aware and multimodal dialogue systems that support mental health conversation. Beyond that, my long-term goal is to interpret the creative process within language models.   
+
+Before my journey at Michigan, I grew up in [Yueyang, Hunan](https://en.wikipedia.org/wiki/Yueyang). It is a beautiful city nestled by [Dongting Lake](https://en.wikipedia.org/wiki/Dongting_Lake). I am one of the rare Hunaneses who can't sustain hot spice.     
 
 This website is behind updates, so please reach out to me with any questions via email!    
 
